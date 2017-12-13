@@ -12,12 +12,13 @@ ARIA支持两种类型的checkbox组件:
   
 ### Keyboard Interaction
 checkbox的focusable属性为true，且当checkbox :focus时，按下Space键可以改变组件的checked状态；
+
 ### WAI-ARIA Roles, States, and Properties
 - 为组件设置role="checkbox"
 - 为组件提供一个可访问的语义化label，可使用[aria-labelledby](/aria?id=aria-labelledby-property) 或者 [aria-label](/aria?id=aria-label-property)提供
-- 当组件被选中时, 设置[aria-checked](/)为true.
-- 当组件取消选中时, 设置[aria-checked](/)为false.
-- 如果组件为部分选中状态，设置[aria-checked](/)为mixed.
+- 当组件被选中时, 设置[aria-checked](/aria?id=aria-checked-state)为true.
+- 当组件取消选中时, 设置[aria-checked](/aria?id=aria-checked-state)为false.
+- 如果组件为部分选中状态，设置[aria-checked](/aria?id=aria-checked-state)为mixed.
 - 如果一组checkbox作为一个逻辑组存在，这些checkbox应该包含在一个role="group"元素中且应为该元素提供一个label;
 - 如果页面上有可视化的文字和checkbo相关，可通过[aria-describedby](/aria?id=aria-describedby-property)='id'关联到包含描述文字的元素;
 
