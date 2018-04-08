@@ -77,3 +77,11 @@ aria-valuenow取值为数字，对于progressbar和scrollbar组件，AT设备会
 | horizontal  | 元素朝向是水平的|  
 | vertical | 元素朝向是垂直的  |  
 | undefined(default) | 元素朝向是未定义或不明确的 |
+
+###### aria-modal (property)
+用来标识一个元素是不是蒙层元素。当蒙层元素展示时，用户交互被限定在蒙层元素的后代元素中，直至蒙层元素被关闭。当蒙层元素展示时，AT设备应当导航到该元素，除非作者明确设置了焦点元素。
+
+###### aria-busy (state)
+
+标识一个元素的内容将会被更改，当一个元素的 aria-busy 为 true 时，AT会忽略该元素及其子元素的内容更新，直至 aria-busy = false时，才会一次性
+把更新作为一个整体反馈给使用者。

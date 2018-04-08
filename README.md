@@ -1,7 +1,7 @@
 ## ARIA实践指南 + 常用ARIA属性 (中文版)
 该站点基于 https://github.com/QingWei-Li/docsify/ 构建而成。网站内容在 docs 文件夹内，格式为 Markdown。欢迎 issue 或 pull request。
   
-英文原版文档：https://www.w3.org/TR/wai-aria-1.1   https://www.w3.org/TR/wai-aria-practices
+英文原版文档：https://www.w3.org/TR/wai-aria-1.1  https://www.w3.org/TR/wai-aria-practices
 
 
 ## 开发
