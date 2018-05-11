@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1afa923f-9fbc-46a8-be0c-deb18cb91f2a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/tabs" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/docs/aria.md" afterPath="$PROJECT_DIR$/docs/aria.md" />
+      <change beforePath="$PROJECT_DIR$/docs/tabs" afterPath="$PROJECT_DIR$/docs/tabs.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tabs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/tabs">
+      <file leaf-file-name="tabs.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/tabs.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="61" lean-forward="false" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
+            <state relative-caret-position="375">
+              <caret line="25" column="59" lean-forward="false" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -56,6 +55,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1440">
               <caret line="96" column="45" lean-forward="true" selection-start-line="96" selection-start-column="45" selection-end-line="96" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_sidebar.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/_sidebar.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -253,13 +262,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57287000" />
+    <option name="totallyTimeSpent" value="57550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1249" y="-778" width="1080" height="1837" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -376,7 +384,6 @@
     <entry file="file://$PROJECT_DIR$/docs/switch.md" />
     <entry file="file://$PROJECT_DIR$/docs/collapse.md" />
     <entry file="file://$PROJECT_DIR$/docs/progress.md" />
-    <entry file="file://$PROJECT_DIR$/docs/_sidebar.md" />
     <entry file="file://$PROJECT_DIR$/docs/tooltip.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -409,10 +416,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/tabs">
+    <entry file="file://$PROJECT_DIR$/docs/tabs.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="61" lean-forward="false" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
+        <state relative-caret-position="375">
+          <caret line="25" column="59" lean-forward="false" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_sidebar.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="15" />
           <folding />
         </state>
       </provider>
