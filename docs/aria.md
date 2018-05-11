@@ -93,3 +93,5 @@ aria-valuenow取值为数字，对于progressbar和scrollbar组件，AT设备会
 用来定义在 DOM 结构上不存在显示继承关系的元素之间的父子关系，值为一系列id值指向文档中的dom元素，当一个元素既有dom子元素也有 aria-owns 值时，则子元素的顺序为dom结构上的子元素，然后是 aria-owns 指向的子元素。
 如果作者期望 dom子元素不是第一个，则 可以把dom子元素的ID 按照期望的顺序 列入 aria-owns值中。一般在 DOM 结构上能看出父子关系的元素之间不建议使用该属性；作者应当保证 同一个元素的id 不会同时出现在 aria-owns 属性中
 
+###### aria-controls (property)
+标识一个元素的内容 controlled by 当前元素。与 aria-owns 作用类似
