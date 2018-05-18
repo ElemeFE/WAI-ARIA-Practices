@@ -17,6 +17,7 @@ Tab:
 - (可选) Home：将焦点移动至第一个 tab
 - (可选) End：将焦点移动至最后一个 tab
 - (可选) Delete：如果允许删除，则删除当前 tab 元素 以及 相关联的 tab panel. 如果存在其他 tab , 将焦点设置到临近的 tab 元素上，并激活当前元素
+
 ### WAI-ARIA Roles, States, and Properties
 
 - 包含 tab list 的元素，赋值 role=tablist
