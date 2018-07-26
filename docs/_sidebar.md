@@ -15,4 +15,3 @@
  - [Menu](/menu)          
  - [Tabs](/tabs)
  - [Tree](/tree)
- - [Collapse](/collapse)
